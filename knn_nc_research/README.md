@@ -6,7 +6,7 @@ MSc in Computing thesis project, Atlantic Technological University (ATU), Galway
 Author: Md. Hossain Akash · Supervisor: Douglas Mota Dias
 
 - **Thesis (PDF):** [thesis/thesis.pdf](thesis/thesis.pdf)
-- **Screencast (5–10 minutes):** [link to the screencast]
+- **Screencast (5–10 minutes):** [screencast.mp4](screebcast.mp4)
 
 ## About the project
 
